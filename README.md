@@ -12,7 +12,7 @@ Import necessary libraries: pandas, networkx, matplotlib.pyplot, Bbn, Edge, Edge
 ### Step 2:
 Set pandas options to display more columns<br/>
 ### Step 3:
-Read in weather data from a CSV file using pandas<br/>
+Read in weather data from a CSV file using pandas<br/> 
 ### Step 4:
 Remove records where the target variable RainTomorrow has missing values<br/>
 ### Step 5:
